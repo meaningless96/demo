@@ -1,4 +1,0 @@
-some example file that 
-will be used to make me learn about
-
-how to change name of the committed file 
